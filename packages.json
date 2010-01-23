@@ -1,0 +1,11 @@
+{
+  "maintainers": [
+    { "name": "Ash Berlin", "web": "http://ashberlin.co.uk" }
+  ],
+  licenses: [ [ "type": "MIT" } ],
+  "repositories": [
+    { "type": "git",
+      "url", "http://github.com/ashb/jsgi-vhost.git",
+  ]
+  "dependencies": {}
+}
